@@ -260,10 +260,6 @@ export const schlocations: schLocation[] = [{
 "code": "FT2", 
 "label": "L1 F Toilets R" 
 },
-{"value": "amphitheatre", 
-"code": "HA", 
-"label": "AMPHITHEATRE" 
-},
 {"value": "seating gallery", 
 "code": "HSG", 
 "label": "Seating Gallery" 
