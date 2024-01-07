@@ -24,12 +24,12 @@ export default function WayFinder() {
         <Images /> 
         </CardContent>
         <CardFooter className="flex justify-center">
-          <h4>Follow red line to destiation</h4>
           <Button className="px-8 py-4 text-lg">
             <Link href="/MapInput">Back</Link>
           </Button>
         </CardFooter>
       </Card>
     </div>
+    <div className="text-xs  text-white text-center">This webapp is devloped by the alumni from 04/22</div>
   );
 }
