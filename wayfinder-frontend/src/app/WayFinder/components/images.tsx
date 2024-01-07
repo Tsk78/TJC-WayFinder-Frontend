@@ -88,9 +88,9 @@ export default function Images() {
                     height={100}
                   />
                 </CardContent>
-                <CardHeader>
+                <CardFooter>
                        <CardTitle>Finding your way...</CardTitle>
-                </CardHeader>
+                </CardFooter>
               </Card>
             </div>
           </CarouselItem>
