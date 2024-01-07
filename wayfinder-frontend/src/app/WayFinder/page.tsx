@@ -16,9 +16,9 @@ export const metadata: Metadata = {
 export default function WayFinder() {
   return (
     <div className="bg-[#328C2A] flex flex-col h-screen justify-center items-center ">
-      <Card className="w-centre">
+      <Card className="w-auto">
         <CardHeader>
-          <CardTitle>Success! Follow the red line to your destination.</CardTitle>
+          <CardTitle>Find your way.</CardTitle>
         </CardHeader>
         <CardContent>
         <Images /> 
