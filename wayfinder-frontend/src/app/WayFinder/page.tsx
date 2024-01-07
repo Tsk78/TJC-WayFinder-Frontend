@@ -29,7 +29,7 @@ export default function WayFinder() {
           </Button>
         </CardFooter>
       </Card>
-      <div className="text-xs  text-white text-center">Follow the red line to the destination!</div>
+      <div className="text-m  text-white text-center">Follow the red line to the destination!</div>
     </div>
   );
 }
