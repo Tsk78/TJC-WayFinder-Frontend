@@ -29,7 +29,7 @@ export default function WayFinder() {
           </Button>
         </CardFooter>
       </Card>
+      <div className="text-xs  text-white text-center">Follow the red line to the destination!</div>
     </div>
-    <div className="text-xs  text-white text-center">This webapp is developed by the alumni from 04/22</div>
   );
 }
