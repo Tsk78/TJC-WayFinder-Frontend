@@ -30,6 +30,6 @@ export default function WayFinder() {
         </CardFooter>
       </Card>
     </div>
-    <div className="text-xs  text-white text-center">This webapp is devloped by the alumni from 04/22</div>
+    <div className="text-xs  text-white text-center">This webapp is developed by the alumni from 04/22</div>
   );
 }
