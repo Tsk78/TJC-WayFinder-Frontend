@@ -18,7 +18,7 @@ export default function WayFinder() {
     <div className="bg-[#328C2A] flex flex-col h-screen justify-center items-center ">
       <Card className="w-auto">
         <CardHeader>
-          <CardTitle>Find your way.</CardTitle>
+          <CardTitle>Finding your way...</CardTitle>
         </CardHeader>
         <CardContent>
         <Images /> 
