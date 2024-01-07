@@ -43,7 +43,7 @@ export default function Home() {
               <Link href="/MapInput">Get Started!</Link></Button>
           </CardFooter>
         </Card>
-        <div className="text-xs  text-white text-center">This webapp is devloped by the alumni from 04/22</div>
+        <div className="text-xs  text-white text-center">This webapp is developed by the alumni from 04/22</div>
         </div>
     </div>
   );
