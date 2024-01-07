@@ -78,6 +78,9 @@ export default function Images() {
           <CarouselItem key={index}>
             <div className="p-1">
               <Card>
+                <CardHeader>
+                       <CardTitle>Success! Follow the red line to your destination</CardTitle>
+                </CardHeader>
                 <CardContent className="flex aspect-square items-center justify-center p-6">
                   <Image
                     loader={myLoader}
@@ -88,9 +91,6 @@ export default function Images() {
                     height={100}
                   />
                 </CardContent>
-                <CardFooter>
-                       <CardTitle>Finding your way...</CardTitle>
-                </CardFooter>
               </Card>
             </div>
           </CarouselItem>
