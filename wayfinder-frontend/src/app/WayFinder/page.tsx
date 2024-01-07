@@ -24,7 +24,7 @@ export default function WayFinder() {
         <Images /> 
         </CardContent>
         <CardFooter className="flex justify-center">
-          <CardTitle>Follow red line to destination</CardTitle>
+          <h4>Follow red line to destiation</h4>
           <Button className="px-8 py-4 text-lg">
             <Link href="/MapInput">Back</Link>
           </Button>
