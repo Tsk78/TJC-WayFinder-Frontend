@@ -290,7 +290,11 @@ export const schlocations: schLocation[] = [{
 },
 {"value": "amphitheatre", 
  "code": "HAB", 
- "label": "Amphitheatre" 
+ "label": "LB Amphitheatre" 
+},
+{"value": "amphitheatre", 
+ "code": "HA", 
+ "label": "L1 Amphitheatre" 
 },
 {"value": "multipurpose room", 
  "code": "HMPR", 
