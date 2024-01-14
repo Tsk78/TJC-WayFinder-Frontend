@@ -372,9 +372,9 @@ export const schlocations: schLocation[] = [{
  "code": "DMT", 
  "label": "L2 D M toliet " 
 },
-{"value": "entrance of lecture theatres", 
+{"value": "lecture theatre 2,3 and 4", 
  "code": "CLTs", 
- "label": "Entrance of Lecture theatres" 
+ "label": "Lecture Theatre 2,3 and 4" 
 },
 {"value": "l2 b stairs (left)", 
  "code": "BS1", 
