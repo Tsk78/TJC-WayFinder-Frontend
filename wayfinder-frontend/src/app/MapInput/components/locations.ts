@@ -772,3 +772,4 @@ export const schlocations: schLocation[] = [{
  "code": "J305", 
  "label": "ICT/AV Office" 
 },
+];
