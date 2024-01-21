@@ -773,7 +773,7 @@ export const schlocations: schLocation[] = [{
  "label": "ICT/AV Office" 
 },
 {"value": "sick bay", 
- "code": "A2-11", 
+ "code": "A2-12", 
  "label": "Sick Bay" 
 },
 {"value": "hod office", 
