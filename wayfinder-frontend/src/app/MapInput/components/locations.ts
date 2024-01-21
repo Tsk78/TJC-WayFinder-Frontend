@@ -448,9 +448,9 @@ export const schlocations: schLocation[] = [{
  "code": "AS2", 
  "label": "L2 A Stairs" 
 },
-{"value": "general office", 
+{"value": "general office reception", 
  "code": "GO", 
- "label": "General Office" 
+ "label": "General Office Reception" 
 },
 {"value": "l2 e m toilet", 
  "code": "EMT1", 
@@ -772,3 +772,47 @@ export const schlocations: schLocation[] = [{
  "code": "J305", 
  "label": "ICT/AV Office" 
 },
+{"value": "sick bay", 
+ "code": "A2-11", 
+ "label": "Sick Bay" 
+},
+{"value": "hod office", 
+ "code": "A2-11", 
+ "label": "HOD Office" 
+},
+{"value": "vice principal office 1", 
+ "code": "A2-10", 
+ "label": "Vice Principal Office 1" 
+},
+{"value": "vice principal office 2", 
+ "code": "A2-8", 
+ "label": "Vice Principal Office 2" 
+},
+{"value": "vice principal office 3", 
+ "code": "A2-9", 
+ "label": "Vice Principal Office 3" 
+},
+{"value": "disipline room", 
+ "code": "A2-7", 
+ "label": "Disipline Room" 
+},
+{"value": "principal's office 1", 
+ "code": "A2-6", 
+ "label": "Principal's Office" 
+},
+{"value": "board room", 
+ "code": "A2-5", 
+ "label": "Board Room" 
+},
+{"value": "pantry", 
+ "code": "A2-4", 
+ "label": "Pantry" 
+},
+{"value": "go printing room", 
+ "code": "A2-3", 
+ "label": "GO Printing Room" 
+},
+{"value": "sat", 
+ "code": "A2-2", 
+ "label": "SAT" 
+}
