@@ -816,3 +816,4 @@ export const schlocations: schLocation[] = [{
  "code": "A2-2", 
  "label": "SAT" 
 }
+];
